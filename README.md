@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SmritiSharmaBG
+- 👋 Hi, I’m Smriti Sharma
 - 👀 I like solving problems that give beautiful and worthwhile results, and makes life easier !
 - 🌱 I’m currently working as an Associate Software Engineer in a Product Based Team
 - 💞️ I like to untangle complex looking problems through concepts of Data Structures and Algorithm
